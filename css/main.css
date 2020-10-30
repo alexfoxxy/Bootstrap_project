@@ -25,6 +25,18 @@ main {
   margin-top: 150px;
 }
 
+footer {
+  text-align: center;
+  background-color: #141518;
+}
+
+footer p {
+  margin-bottom: 0;
+  color: #fff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 img {
   width: 100%;
 }
